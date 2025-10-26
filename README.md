@@ -1,6 +1,6 @@
 # Sales-Profit-Analysis-in-Excel
 
-![Sales & Profit Dashboard](https://github.com/AbdelrahmanElshimy/Sales-Profit-Analysis-in-Excel/issues/1#issue-3554190698)
+![Sales & Profit Dashboard](https://github.com/user-attachments/assets/be7c9f90-2b46-4b4a-b979-2c3f8cd74f4d)
 
 ## 📊 Overview
 
